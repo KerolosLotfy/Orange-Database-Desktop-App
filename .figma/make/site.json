@@ -1,0 +1,10 @@
+{
+  "description": "Manage database imports and updates, then browse organized summaries and operational data across power, alarms, network, and system status.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
